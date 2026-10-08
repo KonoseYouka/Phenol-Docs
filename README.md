@@ -10,6 +10,11 @@
 
 日本語版は[`ja_jp.md`](eli-sensei/ja_jp.md)を参照してください。
 
+## `phenol-web`
+Webサイト「フェノール研究所」に関する説明が書かれています。
+
+日本語版は[`ja_jp.md`](phenol-web/ja_jp.md)を参照してください。
+
 <!--- en --->
 
 # Phenol-Docs
@@ -20,6 +25,11 @@ Please note that while explanations are available in both Japanese and English, 
 Please direct any questions or inquiries regarding this document to the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdOlVykJcnkZH-F5ChSo4Vu3xpomN5HC6xWmJ4VaJfNTyicLA/viewform?usp=dialog).
 
 ## `eli-sensei`
-This section explains the bot program "Eli-sensei" required to operate "Teach Us, Eli-Sensei!".
+This directory explains the bot program "Eli-sensei" required to operate "Teach Us, Eli-Sensei!".
 
 Go to [`en_us.md`](eli-sensei/en_us.md) for English version.
+
+## `phenol-web`
+This directory explains the website "フェノール研究所".
+
+Go to [`en_us.md`](phenol-web/en_us.md) for English version.
