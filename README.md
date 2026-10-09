@@ -10,6 +10,11 @@
 
 日本語版は[`ja_jp.md`](eli-sensei/ja_jp.md)を参照してください。
 
+## `fanart-guide`
+「作品の利用と二次創作に関するガイドライン」です。
+
+日本語版は[`ja_jp.md`](fanart-guide/ja_jp.md)を参照してください。
+
 ## `phenol-web`
 Webサイト「フェノール研究所」に関する説明が書かれています。
 
@@ -28,6 +33,11 @@ Please direct any questions or inquiries regarding this document to the [Google 
 This directory explains the bot program "Eli-sensei" required to operate "Teach Us, Eli-Sensei!".
 
 Go to [`en_us.md`](eli-sensei/en_us.md) for English version.
+
+## `fanart-guide`
+This is the "Guidelines for Use and Fan Creations".
+
+Go to [`en_us.md`](fanart-guide/en_us.md) for English version.
 
 ## `phenol-web`
 This directory explains the website "フェノール研究所".
