@@ -11,6 +11,8 @@ You must have reached the age of majority to use the works under these Guideline
 - Sharing works: Works that are Freely Available may be shared or reposted without charging money, except for program executables. Credit is required when posting a translation of a work.
 - Fan creations: You may post and sell fan creations, including illustrations, music, and games.
 
+Please refrain from using my works for political or religious purposes, or for expressing your opinions.
+
 Use appropriate content labels and audience restrictions where needed to avoid disputes. Do not engage in unlawful activities.
 
 ### Other Points
